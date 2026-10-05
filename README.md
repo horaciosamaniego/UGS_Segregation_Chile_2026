@@ -3,13 +3,13 @@ Repository accompanying the manuscript:
 # The Green Divide: Integrating Remote Sensing, Census Data, and Mobile Records to Analyze Urban Green Space Segregation in Chile
 
 
-Diego Calbucheo $^{a}$ & Horacio Samaniego $^{a,b,*}$
+Diego Calbucheo^^a^^ & Horacio Samaniego^^a,b^^
 
-$^{a}$ Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile; 
+^^a^^ Laboratorio de Ecoinformática; Instituto de Conservación, Biodiversidad y Territorio; Universidad Austral de Chile, Valdivia, Chile; 
 
-$^{b}$ Instituto de Sistemas Complejos de Valparaı́so, Subida Artillerı́a 470, Valparaı́so, 2360448, Chile.
+^^b^^ Instituto de Sistemas Complejos de Valparaı́so, Subida Artillerı́a 470, Valparaı́so, 2360448, Chile.
 
-$^{*}$ Corresponding author (horacio@ecoinformatica.cl)
+^^*^^ Corresponding author (horacio@ecoinformatica.cl)
 
 
 ## Abstract
