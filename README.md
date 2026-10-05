@@ -1,6 +1,6 @@
 Repository accompanying the manuscript:
 
-# Socioeconomic Segregation and Park Greenness: Insights Across a Strong Latitudinal Gradient
+# The Green Divide: Integrating Remote Sensing, Census Data, and Mobile Records to Analyze Urban Green Space Segregation in Chile
 
 
 Diego Calbucheo $^{a}$ & Horacio Samaniego $^{a,b,*}$
